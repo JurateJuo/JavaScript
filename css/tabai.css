@@ -1,0 +1,33 @@
+.tabuliacija{
+    margin: 20px auto;
+    width: 684px;
+}
+
+.tabs{
+    background-color: #8CAADC;
+    height: 40px;
+    width: 684px;
+}
+.tab {
+    float: left;
+    background-color: #8CAADC;
+    padding: 8px 90px;
+    font-family: "Arial Black";
+    border: #1D2A3A solid 1px;
+
+}
+.active{
+    background-color: #DC99C1;
+    box-shadow: 0px 0px 25px 0px;
+}
+.sheet{
+    display: none;
+
+}
+.sheets{
+    background-color: #DC99C1;
+    width: 604px;
+    height: 500px;
+    text-align: center;
+    padding: 40px;
+}
